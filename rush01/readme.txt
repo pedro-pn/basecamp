@@ -1,0 +1,1 @@
+Projeto realizado no rush01 no basecamp da 42sp. Infelizmente o projeto não foi concluído.

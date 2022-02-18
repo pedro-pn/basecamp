@@ -1,0 +1,2 @@
+Esse projeto foi realizado para o rush00 do basecamp da 42sp.
+O código foi majoritariamente escrito pelo Marlon Marçal (msubtil-) em conjunto com o Sergio (svictor-) e eu.
